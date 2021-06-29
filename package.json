@@ -1,0 +1,24 @@
+{
+  "name": "rocketseat-discover",
+  "version": "1.0.0",
+  "description": "Porjeto Rocketseat NLW discover",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon .",
+    "init-db": "node src/db/init.js",
+    "deploy": "ng deploy --base-href=https://<rodrigoxsantos>.github.io/<rocketseat-discover>/"
+  },
+  "keywords": [],
+  "author": "Rodrigo Xavier",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3",
+    "nodemon": "^2.0.7"
+  }
+}
