@@ -1,0 +1,20 @@
+server:
+  port: 5000
+  servlet:
+    context-path: /rocketseat-discover
+
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: postgres://pjcdeixxmxafjf:82ca12364af6a92c943d6c5d853704cce5613aeec26ac464ade05aa6107d7927@ec2-34-195-233-155.compute-1.amazonaws.com:5432/d29tpj732e57na
+    username: pjcdeixxmxafjf
+    password: 82ca12364af6a92c943d6c5d853704cce5613aeec26ac464ade05aa6107d7927
+  jpa:
+    show-sql: true
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    generate-ddl: true
+    hibernate:
+      ddl-auto: none
+
+application:
+  description: Projeto desenvolvido na semana NLW discover
