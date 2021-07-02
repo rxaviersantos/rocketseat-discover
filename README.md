@@ -1,5 +1,8 @@
 ![Capturar7](https://user-images.githubusercontent.com/85380530/124215745-06aab880-dacb-11eb-9993-84cc48f36e37.PNG)"  
 
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/rodrigoxsantos/bootcamp/blob/main/LICENSE) 
+
 ## Configurações do ambiente
 Você pode acessar através [desse link](https://www.notion.so/Configura-es-do-ambiente-d51200a7c7f843fe9000310879f37411)
 
