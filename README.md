@@ -1,4 +1,6 @@
-![Capturar7](https://user-images.githubusercontent.com/85380530/124215745-06aab880-dacb-11eb-9993-84cc48f36e37.PNG)"  
+<p align="center">
+ <img width="200px" src="https://user-images.githubusercontent.com/85380530/124215745-06aab880-dacb-11eb-9993-84cc48f36e37.PNG" />
+</p>
 
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/rodrigoxsantos/bootcamp/blob/main/LICENSE) 
